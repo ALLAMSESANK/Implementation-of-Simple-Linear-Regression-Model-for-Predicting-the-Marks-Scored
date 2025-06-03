@@ -1,5 +1,5 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
+## Date : 8/03/25
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
